@@ -1,1 +1,3 @@
 This is developer and doing changes after the developerA which causes the conflict and try to resolve the conflict. 
+My name is developerA.
+
